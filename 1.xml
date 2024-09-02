@@ -1,2 +1,8 @@
 <?xml version="1.0"?>
-	<student></student>
+	<student>
+		<firstname></firstname>
+		<lastname></lastname>
+		<address></address>
+		<percentage></percentage>
+		<year></year>
+	</student>
