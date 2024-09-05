@@ -1,17 +1,16 @@
 <?xml version="1.0"?>
 <details>
-	<employee>
-		<boy></boy>
-		<girl></girl>
-	</employee>
-	
-	<employee>
-		<boy></boy>
-	</employee>
-	
-	<employee>
-		<boy></boy>
-		<girl></girl>
-		<girl></girl>
-	</employee>
+    <employee>
+        <child gender="boy"/>
+        <child gender="girl"/>
+    </employee>
+    
+    <employee>
+        <child gender="boy"/>
+    </employee>
+    
+    <employee>
+        <child gender="boy"/>
+        <child gender="girl"/>
+    </employee>
 </details>
